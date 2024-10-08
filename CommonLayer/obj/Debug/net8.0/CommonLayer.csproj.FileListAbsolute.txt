@@ -1,0 +1,22 @@
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\CommonLayer\bin\Debug\net8.0\CommonLayer.deps.json
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\CommonLayer\bin\Debug\net8.0\CommonLayer.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\CommonLayer\bin\Debug\net8.0\CommonLayer.pdb
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\CommonLayer\obj\Debug\net8.0\CommonLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\CommonLayer\obj\Debug\net8.0\CommonLayer.AssemblyInfoInputs.cache
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\CommonLayer\obj\Debug\net8.0\CommonLayer.AssemblyInfo.cs
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\CommonLayer\obj\Debug\net8.0\CommonLayer.csproj.CoreCompileInputs.cache
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\CommonLayer\obj\Debug\net8.0\CommonLayer.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\CommonLayer\obj\Debug\net8.0\refint\CommonLayer.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\CommonLayer\obj\Debug\net8.0\CommonLayer.pdb
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\CommonLayer\obj\Debug\net8.0\ref\CommonLayer.dll
+C:\Users\Williams\OneDrive - Universidad de Oriente\Practicas de Programacion Orientada a Eventos\Practica #6 POE\StudentAdministrator\CommonLayer\bin\Debug\net8.0\CommonLayer.deps.json
+C:\Users\Williams\OneDrive - Universidad de Oriente\Practicas de Programacion Orientada a Eventos\Practica #6 POE\StudentAdministrator\CommonLayer\bin\Debug\net8.0\CommonLayer.dll
+C:\Users\Williams\OneDrive - Universidad de Oriente\Practicas de Programacion Orientada a Eventos\Practica #6 POE\StudentAdministrator\CommonLayer\bin\Debug\net8.0\CommonLayer.pdb
+C:\Users\Williams\OneDrive - Universidad de Oriente\Practicas de Programacion Orientada a Eventos\Practica #6 POE\StudentAdministrator\CommonLayer\obj\Debug\net8.0\CommonLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Williams\OneDrive - Universidad de Oriente\Practicas de Programacion Orientada a Eventos\Practica #6 POE\StudentAdministrator\CommonLayer\obj\Debug\net8.0\CommonLayer.AssemblyInfoInputs.cache
+C:\Users\Williams\OneDrive - Universidad de Oriente\Practicas de Programacion Orientada a Eventos\Practica #6 POE\StudentAdministrator\CommonLayer\obj\Debug\net8.0\CommonLayer.AssemblyInfo.cs
+C:\Users\Williams\OneDrive - Universidad de Oriente\Practicas de Programacion Orientada a Eventos\Practica #6 POE\StudentAdministrator\CommonLayer\obj\Debug\net8.0\CommonLayer.csproj.CoreCompileInputs.cache
+C:\Users\Williams\OneDrive - Universidad de Oriente\Practicas de Programacion Orientada a Eventos\Practica #6 POE\StudentAdministrator\CommonLayer\obj\Debug\net8.0\CommonLayer.dll
+C:\Users\Williams\OneDrive - Universidad de Oriente\Practicas de Programacion Orientada a Eventos\Practica #6 POE\StudentAdministrator\CommonLayer\obj\Debug\net8.0\refint\CommonLayer.dll
+C:\Users\Williams\OneDrive - Universidad de Oriente\Practicas de Programacion Orientada a Eventos\Practica #6 POE\StudentAdministrator\CommonLayer\obj\Debug\net8.0\CommonLayer.pdb
+C:\Users\Williams\OneDrive - Universidad de Oriente\Practicas de Programacion Orientada a Eventos\Practica #6 POE\StudentAdministrator\CommonLayer\obj\Debug\net8.0\ref\CommonLayer.dll
